@@ -1,0 +1,22 @@
+﻿  Car.cpp
+  CAT.cpp
+  Source.cpp
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Source.cpp(12,11): error C2259: 'Vehicle': cannot instantiate abstract class
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Vehicle.h(8,7): message : see declaration of 'Vehicle'
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Source.cpp(12,11): message : due to following members:
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Source.cpp(12,11): message : 'std::unique_ptr<Vehicle,std::default_delete<Vehicle>> Vehicle::clone(void)': is abstract
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Vehicle.h(16,35): message : see declaration of 'Vehicle::clone'
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Source.cpp(12,15): error C2259: 'Vehicle': cannot instantiate abstract class
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Vehicle.h(8,7): message : see declaration of 'Vehicle'
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Source.cpp(12,15): message : due to following members:
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Source.cpp(12,15): message : 'std::unique_ptr<Vehicle,std::default_delete<Vehicle>> Vehicle::clone(void)': is abstract
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Vehicle.h(16,35): message : see declaration of 'Vehicle::clone'
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Source.cpp(12,21): error C2259: 'Vehicle': cannot instantiate abstract class
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Vehicle.h(8,7): message : see declaration of 'Vehicle'
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Source.cpp(12,21): message : due to following members:
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Source.cpp(12,21): message : 'std::unique_ptr<Vehicle,std::default_delete<Vehicle>> Vehicle::clone(void)': is abstract
+C:\Users\Zlati\source\repos\OOP_sem2_27.05.2026\OOP_sem2_27.05.2026\Vehicle.h(16,35): message : see declaration of 'Vehicle::clone'
+  Ticket.cpp
+  Train.cpp
+  Vehicle.cpp
+  Generating Code...
