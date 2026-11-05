@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Zlati\source\repos\OOP_sem2_18.02.2026\OOP_sem2_18.02.2026\Source.cpp(79): warning C4715: 'CreatePerson': not all control paths return a value
+  OOP_sem2_18.02.2026.vcxproj -> C:\Users\Zlati\source\repos\OOP_sem2_18.02.2026\x64\Debug\OOP_sem2_18.02.2026.exe
