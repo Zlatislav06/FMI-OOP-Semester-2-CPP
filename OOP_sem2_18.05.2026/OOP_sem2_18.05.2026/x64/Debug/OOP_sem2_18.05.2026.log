@@ -1,0 +1,14 @@
+﻿  Box.cpp
+  ConstantFile.cpp
+C:\Users\Zlati\source\repos\OOP_sem2_18.05.2026\OOP_sem2_18.05.2026\ConstantFile.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SortBox.cpp
+  Source.cpp
+C:\Users\Zlati\source\repos\OOP_sem2_18.05.2026\OOP_sem2_18.05.2026\FileSystem.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Zlati\source\repos\OOP_sem2_18.05.2026\OOP_sem2_18.05.2026\FileSystem.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Zlati\source\repos\OOP_sem2_18.05.2026\OOP_sem2_18.05.2026\FileSystem.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Zlati\source\repos\OOP_sem2_18.05.2026\OOP_sem2_18.05.2026\StandardFile.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Zlati\source\repos\OOP_sem2_18.05.2026\OOP_sem2_18.05.2026\StandardFile.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Zlati\source\repos\OOP_sem2_18.05.2026\OOP_sem2_18.05.2026\StandardFile.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Teacher.cpp
+  Generating Code...
+  OOP_sem2_18.05.2026.vcxproj -> C:\Users\Zlati\source\repos\OOP_sem2_18.05.2026\x64\Debug\OOP_sem2_18.05.2026.exe
